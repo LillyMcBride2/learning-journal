@@ -4,7 +4,8 @@
 In the words of Alfred Binet:
 > Some recent philosophers seem to have given their moral approval to these deplorable verdicts that affirm that the intelligence of an individual is a fixed quantity, a quantity that cannot be augmented. We must protest and react against this brutal pessimism; we will try to demonstrate that it is founded on nothing.
 #### The growth mindset involves thinking about things in ways that help us to grow intellectually and emotionally. Instead of becoming frustrated by problems we don't understand we are exhilarated by them and excited to figure them out. Instead of being discouraged by criticism we embrace it as an opportunity to see things differently and learn new ways of doing things. We always think of things we don't understand as things we don't understand yet.
-#### Reminders
+
+Reminders
 
  [x] See challenges as opportunities
  

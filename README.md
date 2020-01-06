@@ -14,4 +14,4 @@ In the words of ALfred Binet:
  
  [x] Be inspired by the success of others
  
-My name is Lilly and I'm thrilled to be restarting the process of learning how to code. I enjoy making ceramics and have an aging pit bull named Todo, which means '/everything'/ in Spanish. My GitHub portfolio page can be found at https://github.com/LillyMcBride2
+My name is Lilly and I'm thrilled to be restarting the process of learning how to code. I enjoy making ceramics and have an aging pit bull named Todo, which means "everything" in Spanish. My GitHub portfolio page can be found at https://github.com/LillyMcBride2

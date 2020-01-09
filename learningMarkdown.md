@@ -28,7 +28,7 @@ To make text italic you can use a single star at the beginning and end of a bloc
 
 To make text both bold and italisized you can use an underscore at the beginning and end of a block of text.
 
-_This text will also be italisized._
+_This text will be bold and italisized._
 ---
 
 To create an erasure you can use two tilde characters at the beginning and end of a block of text.

@@ -1,4 +1,3 @@
-
 # What are Github and Markdown?
 
 GitHub is a great free development tool for programmers. It gives you a place to save your code in what are called repositories.
@@ -14,24 +13,30 @@ Now I'll show you just a few examples of Markdown in action. The slashes I'm abo
 just a little note to help people to better understand code. 
 
 To make take text bold you can use either two stars or an uderscore at the beginning and end of the block of text.
+
 ---
 
 **This text will be bold.**
 
+
+__This text will also be bold__
+
 ---
 
 To make text italic you can use a single star at the beginning and end of a block of text.
+
 ---
 
 *This text will be italisized.*
+
+_This text will also be italisized._
+
+
 ---
 
-To make text both bold and italisized you can use an underscore at the beginning and end of a block of text.
-
-_This text will be bold and italisized._
----
 
 To create an erasure you can use two tilde characters at the beginning and end of a block of text.
+
 ---
 
 ~~This text text will be stricken from the record in a manner similar to way the Rauschenberg earased the drawings of De Kooning. It will

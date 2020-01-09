@@ -12,7 +12,7 @@ characters thrown in, like # or *. You can use Markdown most places around GitHu
 Now I'll show you just a few examples of Markdown in action. The slashes I'm about to use indicate a comment, something that is not code, 
 just a little note to help people to better understand code. 
 
-To make take text bold you can use either two stars or an uderscore at the beginning and end of the block of text.
+To make take text bold you can use either two stars or two uderscores at the beginning and end of the block of text.
 
 ---
 
@@ -23,7 +23,7 @@ __This text will also be bold__
 
 ---
 
-To make text italic you can use a single star at the beginning and end of a block of text.
+To make text italic you can use a single star or a single underscore at the beginning and end of a block of text.
 
 ---
 

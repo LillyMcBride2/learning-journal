@@ -18,13 +18,17 @@ To make take text bold you can use either two stars or an uderscore at the begin
 
 **This text will be bold.**
 
-_This text will also be bold._
 ---
 
-To make text italic you can use a single star at the biginning and end of a block of text.
+To make text italic you can use a single star at the beginning and end of a block of text.
 ---
 
 *This text will be italisized.*
+---
+
+To make text both bold and italisized you can use an underscore at the beginning and end of a block of text.
+
+_This text will also be italisized._
 ---
 
 To create an erasure you can use two tilde characters at the beginning and end of a block of text.

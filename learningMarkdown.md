@@ -1,5 +1,5 @@
 
-What are Github and Markdown?
+# What are Github and Markdown?
 
 GitHub is a great free development tool for programmers. It gives you a place to save your code in what are called repositories.
 Each time you edit your code, you can save it to the repository by clicking a button labeled commit. When you commit your code to the

@@ -1,1 +1,18 @@
 # The Coder's Computer
+
+A text editor is simply a system or program that allows a user to edit text. A coding specific text editor will give coders a few tools to help them to write code such as code completion and syntax highlighting. Whereas an Integrated Development Environment or IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. Some features to look for in a text editor are a nice variety of themes (to reduce eye strain and fatigue) and the ability to choose from an array of extensions. A great feature of any text editing software is code completion. Code completion allows you to start typing, and the code completion feature will display possible suggestions based on what you originally typed. This saves you time by providing a choice, rather than allowing you to finish typing and possibly encounter typos. Syntax highlighting is another great feature. It takes the text you type, and makes it more noticeable by colorizing the text. Attributes are a different color than elements. And elements are a different color than copy. This makes it so much easier when you’re looking for an error and you can’t find it. As well as making your text easier to read.
+
+A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text. The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Typically a command is always the first thing you type . After that we have what are referred to as command line arguments. It's mportant to note, these are separated by spaces (there must be a space between the command and the first command line argument also). Command line arguments can sometimes also be options. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - ). Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error. Within a terminal you have what is known as a shell. This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell. 
+
+The first command we are going to learn is pwd which stands for Print Working Directory. (You'll find that a lot of commands in linux are named as an abbreviation of a word or words describing them. This makes it easier to remember them.) The command does just that. It tells you what your current or present working directory is. Give it a try now. A lot of commands on the terminal will rely on you being in the right location. As you're moving around, it can be easy to lose track of where you are at. Make use of this command often so as to remind yourself where you presently are. It's one thing to know where we are. Next we'll want to know what is there. The command for this task is ls. It's short for list. Whereas pwd is just run by itself with no arguments, ls is a little more powerful. We have run it here with no arguments in which case it will just do a plain listing of our current location. We can do more with ls however. In the example, ls [options][location],the square brackets ( [ ] ) mean that those items are optional, we may run the command with or without them.
+
+A few commands we learned-
+
+pwd
+Print Working Directory - ie. Where are we currently.
+
+ls
+List the contents of a directory.
+
+cd
+Change Directories - ie. move to another directory.

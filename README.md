@@ -19,6 +19,6 @@ In the words of Alfred Binet:
 ***My name is Lilly and I'm thrilled to be restarting the process of learning how to code. I enjoy making ceramics and have an aging pit bull named Todo, which means \"everything\" in Spanish. My GitHub portfolio page can be found at https://github.com/LillyMcBride2***
 
 ### Table of Contents / Learning Journal Entires
-[What are Markdown and GitHub?] (https://github.com/LillyMcBride2/learning-journal/blob/master/learningMarkdown.md)
+[What are Markdown and GitHub?](https://github.com/LillyMcBride2/learning-journal/blob/master/learningMarkdown.md)
 
-[The coder's computer] (https://github.com/LillyMcBride2/learning-journal/blob/master/coderscomputer.md)
+[The coder's computer](https://github.com/LillyMcBride2/learning-journal/blob/master/coderscomputer.md)

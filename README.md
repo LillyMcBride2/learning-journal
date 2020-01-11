@@ -21,3 +21,4 @@ In the words of Alfred Binet:
 ### Table of Contents / Learning Journal Entires
 [What are Markdown and GitHub?] (https://github.com/LillyMcBride2/learning-journal/blob/master/learningMarkdown.md)
 
+[The coder's computer] (https://github.com/LillyMcBride2/learning-journal/blob/master/coderscomputer.md)

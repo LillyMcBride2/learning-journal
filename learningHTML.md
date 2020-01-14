@@ -40,7 +40,7 @@ appear to start on a new line in
 the browser window. These are
 known as block level elements.
 Examples of block elements are
-<h1>, <p>, <ul>, and <li>
+h1, p, ul, and li.
 
 ### Inline Elements
 
@@ -50,31 +50,31 @@ same line as their neighbouring
 elements. These are known as
 inline elements.
 Examples of inline elements are
-<a>, <b>, <em>, and <img>.
+a, b, em, and img.
 
 ### Grouping Text and Elements in a Block
 
-The <div> element allows you to
+The div element allows you to
 group a set of elements together
 in one block-level box.
 For example, you might create
-a <div> element to contain all
+a div element to contain all
 of the elements for the header
 of your site (the logo and the
 navigation), or you might create
-a <div> element to contain
+a div element to contain
 comments from visitors.
 
 ### Grouping Text and Elements Inline
 
-The <span> element acts like
-an inline equivalent of the <div>
+The span element acts like
+an inline equivalent of the div
 element. It is used to either:
-1. Contain a section of text
+contain a section of text
 where there is no other suitable
 element to differentiate it from
 its surrounding text, OR
-2. Contain a number of inline
+contain a number of inline
 elements
 The most common reason why
 people use <span> elements
@@ -99,9 +99,9 @@ html page (either located on the
 same server or anywhere else on
 the web).
 An iframe is created using the
-<iframe> element.
+iframe element.
 
-<iframe
+<iframe>
 width="450"
 height="350"
 src="http://maps.google.co.uk/maps?q=moma+new+york

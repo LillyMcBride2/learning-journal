@@ -22,3 +22,5 @@ In the words of Alfred Binet:
 [What are Markdown and GitHub?](https://github.com/LillyMcBride2/learning-journal/blob/master/learningMarkdown.md)
 
 [The coder's computer](https://github.com/LillyMcBride2/learning-journal/blob/master/coderscomputer.md)
+
+[Git and Git Bash] (https://github.com/LillyMcBride2/learning-journal/blob/master/GitAndGitBash.md)

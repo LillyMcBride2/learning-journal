@@ -110,31 +110,10 @@ src="http://maps.google.co.uk/maps?q=moma+new+york
 
 ### Meta
 
-The <meta> element lives
-inside the <head> element and
+The meta element lives
+inside the head element and
 contains information about that
 web page.
-
-<!DOCTYPE html>
-<html>
-<head>
- <title>Information About Your Pages</title>
- <meta name="description"
- content="An Essay on Installation Art" />
- <meta name="keywords"
- content="installation, art, opinion" />
- <meta name="robots"
- content="nofollow" />
- <meta http-equiv="author"
- content="Jon Duckett" />
- <meta http-equiv="pragma"
- content="no-cache" />
- <meta http-equiv="expires"
- content="Fri, 04 Apr 2014 23:59:59 GMT" />
-</head>
-<body>
-</body>
-</html>
 
 ### Escape Characters and Symbols
 
@@ -146,18 +125,4 @@ characters to appear on your
 page you need to use what are
 termed "escape" characters
 (also known as escape codes or
-entity references). For example,
-to write a left angled bracket,
-you can use either &lt; or
-&#60;. For an ampersand, you
-can use either &amp; or &#38;.
-There are also special codes
-that can be used to show
-symbols such as copyright and
-trademark, currency symbols,
-mathematical characters, and
-some punctuation marks. For
-example, if you want to include a
-copyright symbol on a web page
-you can use either &copy; or
-&#169;.
+entity references).
